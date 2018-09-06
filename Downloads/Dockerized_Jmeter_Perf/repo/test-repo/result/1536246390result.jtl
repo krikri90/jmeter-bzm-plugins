@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1536246399250,22414,google,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused,Google 1-1,text,false,,2102,0,1,1,0,0,0
+1536246400125,21562,google,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection refused,Google 1-1,text,false,,2102,0,1,1,0,0,0
