@@ -1,3 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
-1536246946021,6603,google,200,OK,Google 1-1,text,true,,48632,0,1,1,1493,0,0
-1536246945486,7272,google,200,OK,Google 1-1,text,true,,48630,0,1,1,1900,0,0
